@@ -1,0 +1,63 @@
+header{
+    background-color: #2F4F4F;
+    text-align: left;
+    margin: 1px 0px 0px 0px;
+    padding: 10px 10px;
+}
+
+header h1{
+text-align: left;
+align-items: left;
+}
+
+header ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: right;
+}
+
+header ul a{
+    display: inline-block;
+    margin: 0px 0px 1px;
+    cursor: pointer ;
+    padding: 0px;
+    font-size: 1rem;
+}
+
+.active{
+   background-color: #009E2D ; 
+   padding: 10px;
+   color: white;
+   text-decoration: none;
+   
+}
+
+.boutique{
+    color: white;
+    text-decoration: none;
+}
+
+#section1 {
+    background-color: #009E2D;
+    padding: 0.1px 10px 100px;
+    margin: 1px 0px 0px 0px;
+}
+
+#section2 {
+    background-color: red;
+    padding: 10px 10px 100px;
+    margin: 1px 0px 0px 0px;
+
+
+}
+footer{
+    background-color: #2F4F4F;
+    text-align: center;
+    padding: 10px 10px;
+    margin: 1px 0px 0px 0px;
+}
+head{
+    padding: 10px 10px;
+    ;
+}
